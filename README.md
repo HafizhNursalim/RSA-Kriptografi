@@ -9,4 +9,4 @@ Adapun hasil yang didapatkan dalam program berupa hasil enkripsi dan dekripsi un
 
 <img width="626" alt="image" src="https://github.com/user-attachments/assets/8d84c0fc-a6c9-46e8-aae3-2fc18ff02a89" />
 
-Secara lebih lanjut, Alur kerja program RSA yang dibuat dengan python beserta penerapan matematika dalam algoritma tersebut telah dilampirkan pada file pdf di atas
+Secara lebih lanjut, alur kerja program RSA yang dibuat dengan python beserta penerapan matematika dalam algoritma tersebut telah dilampirkan pada file pdf di atas
